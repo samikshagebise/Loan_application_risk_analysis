@@ -1,5 +1,7 @@
 # Loan_application_risk_analysis
-* Analysis Overview : This analysis aims to explore various aspects of loan default behavior, including how defaults vary across different demographic and financial features. * The key components of the analysis are as follows:
+* Analysis Overview : This analysis aims to explore various aspects of loan default behavior, including how defaults vary across different demographic and financial features.
+  
+* The key components of the analysis are as follows:
 
 * Default by Age Bucket and Contract Type:
 The data has been segmented into different age buckets to analyze default rates across age groups.
