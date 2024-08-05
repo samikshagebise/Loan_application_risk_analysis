@@ -1,4 +1,4 @@
-# Loan_application_risk_analysis
+*  Loan_application_risk_analysis
 * Analysis Overview : This analysis aims to explore various aspects of loan default behavior, including how defaults vary across different demographic and financial features.
   
 * The key components of the analysis are as follows:
